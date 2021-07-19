@@ -19,4 +19,5 @@ class Solution:
             cache[(i,j)] = False
             return False
         return dfs(0,0)
+#ok test thu
 
