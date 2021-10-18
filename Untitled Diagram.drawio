@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-10T10:03:47.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="h_rjomFQ5S3zJdYnRtcM" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T00:51:05.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="74s4sPZjd1e7cp7ZsC4i" version="15.5.2" type="github">
   <diagram id="k26zZf1VlXCmexrfWgtO" name="Page-1">
     <mxGraphModel dx="868" dy="488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,14 +68,41 @@
         <mxCell id="WftB4FqeUq0QB7XG1L_F-17" value="User interface" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="496" y="291" width="155" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="Y-cJnhijeDx_8QOJ0PnV-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.com/images/sensor-icon-png/sensor-icon-png-26.jpg;" vertex="1" parent="1">
+        <mxCell id="Y-cJnhijeDx_8QOJ0PnV-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.com/images/sensor-icon-png/sensor-icon-png-26.jpg;" parent="1" vertex="1">
           <mxGeometry x="75" y="228" width="49" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Y-cJnhijeDx_8QOJ0PnV-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.com/images/pump-icon/pump-icon-14.jpg;" vertex="1" parent="1">
+        <mxCell id="Y-cJnhijeDx_8QOJ0PnV-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon-library.com/images/pump-icon/pump-icon-14.jpg;" parent="1" vertex="1">
           <mxGeometry x="591" y="80.25" width="52.25" height="52.25" as="geometry" />
         </mxCell>
-        <mxCell id="Y-cJnhijeDx_8QOJ0PnV-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn0.iconfinder.com/data/icons/social-media-strategy-1-2/66/19-512.png;" vertex="1" parent="1">
+        <mxCell id="Y-cJnhijeDx_8QOJ0PnV-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn0.iconfinder.com/data/icons/social-media-strategy-1-2/66/19-512.png;" parent="1" vertex="1">
           <mxGeometry x="648" y="295" width="53" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="YXk2NG5TEa1MjVFv2uWV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="YXk2NG5TEa1MjVFv2uWV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="224" y="615" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YXk2NG5TEa1MjVFv2uWV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="YXk2NG5TEa1MjVFv2uWV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="222" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YXk2NG5TEa1MjVFv2uWV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YXk2NG5TEa1MjVFv2uWV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="533" y="627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YXk2NG5TEa1MjVFv2uWV-1" value="Water pump" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="602" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YXk2NG5TEa1MjVFv2uWV-8" value="Water tank" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="199" y="591" width="68" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="YXk2NG5TEa1MjVFv2uWV-9" value="Control Block&amp;nbsp; Signal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="159" y="646" width="121" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="YXk2NG5TEa1MjVFv2uWV-10" value="Water Flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="459" y="606" width="70" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
