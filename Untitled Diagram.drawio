@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T02:47:06.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="APtw6s7OylNkUJXdVJ7X" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T02:57:54.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="JwRKgSBuI83RsD6GClh6" version="15.5.9" type="github">
   <diagram id="k26zZf1VlXCmexrfWgtO" name="Page-1">
     <mxGraphModel dx="868" dy="520" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,11 +75,6 @@
         <mxCell id="Y-cJnhijeDx_8QOJ0PnV-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn0.iconfinder.com/data/icons/social-media-strategy-1-2/66/19-512.png;" parent="1" vertex="1">
           <mxGeometry x="608" y="291" width="53" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="YXk2NG5TEa1MjVFv2uWV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="YXk2NG5TEa1MjVFv2uWV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="222" y="640" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YXk2NG5TEa1MjVFv2uWV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YXk2NG5TEa1MjVFv2uWV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="533" y="627" as="targetPoint" />
@@ -96,8 +91,16 @@
         <mxCell id="YXk2NG5TEa1MjVFv2uWV-8" value="Adapter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="333" y="555" width="52" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="Z0C0Gbrf6V7a8rLDcDF_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YXk2NG5TEa1MjVFv2uWV-9" target="YXk2NG5TEa1MjVFv2uWV-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="256" y="627" />
+              <mxPoint x="256" y="627" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YXk2NG5TEa1MjVFv2uWV-9" value="Device signal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="216" y="616" width="81" height="18" as="geometry" />
+          <mxGeometry x="171" y="614" width="81" height="18" as="geometry" />
         </mxCell>
         <mxCell id="YXk2NG5TEa1MjVFv2uWV-10" value="Control device signal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="449" y="606" width="121" height="18" as="geometry" />
